@@ -46,9 +46,7 @@ export default {
       abouts: [
         { type: 'text', title: 'Versão', value: '3.0.0' },
         { type: 'array', title: 'Traduções', value: [] },
-        { type: 'link', title: 'Repositório', name: 'GitHub', value: 'https://github.com/lcssxd/biblia-sagrada' },
-        { type: 'link', title: 'Contato', name: 'WhatsApp', value: 'https://wa.me/+5583993577540/' }
-      ]
+         ]
     }
   },
   mounted() {
