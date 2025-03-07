@@ -25,9 +25,7 @@
               class="size-5" />
             <bookmarkIcon v-else class="size-5" />
           </button>
-          <button class="outline-none" @click.prevent="shareVerse">
-            <shareIcon class="size-5" />
-          </button>
+          
           <button class="outline-none" @click.prevent="cancelSelected">
             <xMarkIcon class="size-5" />
           </button>
